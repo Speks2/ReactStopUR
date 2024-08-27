@@ -36,7 +36,7 @@ function App() {
       <button onClick={handleStartStop}>
         {isRunning ? 'Stop' : 'Start'}
       </button>
-      <button onClick={handleReset}>Nulstil</button>
+      <button onClick={handleReset}>Reset</button>
     </div>
   );
 }
