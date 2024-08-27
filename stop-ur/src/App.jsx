@@ -17,7 +17,7 @@ function App() {
       clearInterval(interval);
     }
 
-    // Oprydning
+    //  Reset knap.
     return () => clearInterval(interval);
   }, [isRunning]);
 
