@@ -1,0 +1,31 @@
+
+.StopUr {
+    text-align: center;
+    background-color: #f0f0f0;
+    padding: 2rem;
+    border-radius: 10px;
+    max-width: 50%;
+    margin: 0.5rem auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+    
+  }
+  
+  button {
+    margin: 1rem;
+    padding: 2rem 2rem;
+    font-size: 1.7rem;
+    cursor: pointer;
+    border-radius: 5px;
+    border: none;
+    background-color: #001aff;
+    color: white;
+    margin-left: 45%;
+  
+    &:hover {
+      background-color: #4de9f5;
+    }
+  }
+  
+  
+
